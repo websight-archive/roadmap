@@ -5,7 +5,6 @@ title: ''
 labels: ''
 assignees: ''
 
----
 
 body: 
   - type: textarea
@@ -16,5 +15,7 @@ body:
     id: intended-outcome
     attributes:
       label: Intended Outcome
+---
+
 
 
