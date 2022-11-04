@@ -1,6 +1,6 @@
 # WebSight public roadmap
 
-View our [public WebSight roadmap](https://github.com/orgs/websight-io/projects/2).
+View our [public WebSight roadmap](https://github.com/orgs/websight-io/projects/2/views/2).
 
 
 The roadmap presents what featuers we are working on and ideas we are exploring and analysing. Have any suggestions, comments or questions? Share them via [GitHub discussions](https://github.com/websight-io/starter/discussions).
