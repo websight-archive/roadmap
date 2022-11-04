@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: WebSight Feedback
+  - name: WebSight Community Forum
     url: https://github.com/websight-io/starter/discussions
-    about: Share your feedback with the WebSight team.
+    about: Share your feedback and discuss the roadmap with the WebSight team.
