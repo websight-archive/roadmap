@@ -11,7 +11,7 @@ Every item on the roadmap is an issue. We use labels to indicate:
 
 - An **application** that indicate a part of the DXP.
 - A **module** that points out functional part of a given appliaction.
-- A **type** to categories the changes.
+- A **type** to categorize the changes.
 
 See more details about the labels in the sections below.
 
@@ -29,6 +29,13 @@ WebSight CMS modules:
 - **Page Management** - provides functionalities to create pages and arrange them in a hierarchy.
 - **Assets Management** - helps to organise assets like images, videos, or documents.
 - **Admin Tools** - support administration activities.
+
+### Types
+
+We use the following types to categorize topics:
+
+- **Feature** - new functionality or capability for a given application or module
+- **UX** - improved experience for an existing feature
 
 ## Disclaimer
 
