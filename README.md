@@ -17,7 +17,7 @@ See more details about the labels in the sections below.
 
 ### Applications
 
-WebSight is Digitial Experience Platform. It conists of several applications. We define the roadmap for the following ones:
+WebSight is a Digitial Experience Platform. It consists of several applications. We define the roadmap for the following ones:
 
 - **CMS** - Content Management System that enables to create digital experiences and get a live preview before publishing. 
 - **DXP** - general ticket related to the whole platform.
