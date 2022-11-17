@@ -39,4 +39,4 @@ We use the following types to categorize topics:
 
 ## Disclaimer
 
-The roadmap and all the statements presented in this repository are based on the information available to us on the date we write them. They do not represent any commitment, guarantee, obligation, or promise to deliver any product or feature by any particular date. We intend to draw the high-level development plans. We assume no obligation to update them too. Customers should not rely on this roadmap to make any decision.
+The roadmap and all the statements presented in this repository are based on the information available to us on the date we write them. They do not represent any commitment, guarantee, obligation, or promise to deliver any product or feature by any particular date. We intend to draw high-level development plans. We assume no obligation to update them too. Customers should not rely on this roadmap to make any decision.
