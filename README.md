@@ -29,6 +29,7 @@ WebSight CMS modules:
 - **Page Management** - provides functionalities to create pages and arrange them in a hierarchy.
 - **Assets Management** - helps to organise assets like images, videos, or documents.
 - **Admin Tools** - support administration activities.
+- **New Module** - will be created when a roadmap item is implemented.
 
 ### Types
 
